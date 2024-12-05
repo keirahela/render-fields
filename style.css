@@ -1,0 +1,11 @@
+.labelOnTop {
+    display: flex;
+    flex-direction: column;
+    width: max-content;
+}
+
+.labelInline {
+    display: flex;
+    flex-direction: row;
+    width: max-content;
+}
